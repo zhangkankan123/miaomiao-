@@ -1,4 +1,4 @@
-# miaomiao-
+# miaomiao音乐盒
 一个基于微信开发者工具打造的音乐收听程序
 <br/>
 首页样式展示
@@ -18,10 +18,14 @@
 <br/>
 点击进入歌曲详情：
 <br/>
-<img src="https://s3.bmp.ovh/imgs/2022/03/31/ae570a3ea03a2d83.png" width="200px">
+<img src="https://s3.bmp.ovh/imgs/2022/03/31/802fbdf4e4267437.png" width="200px">
 <img src="https://s3.bmp.ovh/imgs/2022/03/31/20d442842bf8746d.png" width="200px">
 <br/>
 视频页面展示：
 <br/>
 <img src="https://s3.bmp.ovh/imgs/2022/03/31/eec6270b85804711.png" width="200px">
 <img src="https://s3.bmp.ovh/imgs/2022/03/31/dab7e93f6c757e87.png" width="200px">
+<br/>
+个人页面还在开发：
+<br/>
+<img src="https://s3.bmp.ovh/imgs/2022/03/31/81443e5a38bff875.png" width="200px">
